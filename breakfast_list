@@ -1,0 +1,14 @@
+inventory=input("choose anyone from"" ""(breakfast, lunch, snacks, dinner):")
+output=" "
+if inventory=="breakfast":
+    output = "In breakfast, we have Tea (@149/-), Coffee (@559/-) and Milk (@199/-)"
+elif inventory=="lunch":
+    output="In lunch, we have Indian(@800/-), Continental(@1800/-), Mexican(@1500/-), Thai(@1199/-), Brizallian(@2349/-)"
+elif inventory=="snacks":
+    output="In snacks, we have Cookie(@50/-), Cake(@100/-), Pastries(@99/-)"
+elif inventory=="dinner":
+    output="In dinner, we have Veg Thali(@433/-), Non-veg Thali(@754/-)"
+else:
+ print("You deserve our premium membership starting @6999/-")
+
+print(output)
