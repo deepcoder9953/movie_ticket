@@ -1,0 +1,20 @@
+# days=input("Choose the day"" ""sun, mon, tue, wed, thur, fri, sat:")
+# availibility=""
+# if(days=="sun"):
+#     availibility="The dark knight in the morning 11.00AM show @499?- with free popcorn","The Godfather in the evening 4.00PM show @499?- with free popcorn"
+# elif(days=="mon"):
+#     availibility="The Shawman redemption in the morning 10.00AM show @499?- with free popcorn","The Dune in the evening 4.00PM show @499?- with free popcorn"
+# elif(days=="Tue"):
+#     availibility="Lord of kings in the morning 11.00AM show @499?- with free popcorn","Forest Gump in the evening 4.00PM show @499?- with free popcorn"
+# elif(days=="wed"):
+#     availibility="Avatar in the morning 11.00AM show @499?- with free popcorn","Anyone but you in the evening 4.00PM show @499?- with free popcorn"
+# elif(days=="thur"):
+#     availibility="Damsel in the morning 11.00AM show @499?- with free popcorn","Code 8 in the evening 4.00PM show @499?- with free popcorn"
+# elif(days=="fri"):
+#     availibility="The king in the morning 11.00AM show @499?- with free popcorn","Last holiday in the evening 4.00PM show @499?- with free popcorn"
+# elif(days=="sat"):
+#     availibility="Titanic in the morning 11.00AM show @499?- with free popcorn","Catch me if you can in the evening 4.00PM show @499?- with free popcorn"
+# else:
+#     print("Movie not available")
+#
+# print(availibility)
